@@ -35,21 +35,27 @@ Follow the on-screen instructions and make your choices:
 
 Choose between left or right paths.
 Decide how to deal with obstacles and encounters.
+
 🧩 Code Structure
+
 jungle_adventure(): The main function that runs the game.
 Choice 1: Choose which path to take, left or right.
 Choice 2: Make another decision to continue your adventure.
 River Encounter: Encounter a raging river that blocks your path and decide whether to cross.
 Stranger Encounter: Meet a stranger who offers help and decide whether to accept their assistance.
 Game Over or Win: Depending on your choices, the game ends with either a win or a game over.
+
 🚀 How it works:
+
 Welcome the Player: The game introduces the jungle adventure.
 First Path Decision: Choose between two paths, left or right.
 Second Path Decision: Make another choice to continue deeper into the jungle.
 River Encounter: A raging river appears, and you must choose whether to cross or turn back.
 Stranger Encounter: If you choose to cross, a friendly stranger offers help. Decide whether to accept or decline their assistance.
 Game Outcome: Based on your choices, the game ends either with success (you win) or failure (game over).
+
 🚀 Sample Gameplay:
+
 vbnet
 Copy code
 Welcome to the Jungle Adventure!
@@ -63,5 +69,6 @@ You accept the stranger's help and cross the river safely. You win!
 
 📣 Feedback
 If you have any feedback or suggestions, please feel free to open an issue or contact us.
+mail:bhavnanahar245@gmail.com
 
 Made with ❤️ by Bhavna
